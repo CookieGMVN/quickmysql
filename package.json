@@ -1,0 +1,27 @@
+{
+  "name": "quickmysql",
+  "version": "1.0.0",
+  "description": "A wrapper for MySQL Node.JS with built-in Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookieGMVN/quickmysql.git"
+  },
+  "keywords": [
+    "mit",
+    "quickmysql",
+    "mysql"
+  ],
+  "author": "CookieGMVN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CookieGMVN/quickmysql/issues"
+  },
+  "homepage": "https://github.com/CookieGMVN/quickmysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
